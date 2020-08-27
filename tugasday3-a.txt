@@ -1,0 +1,11 @@
+Create summary about today lesson
+
+Aug 28, 2020
+
+Belajar tentang membuat git branch, berpindah dari git master ke git branch dan sebaliknya, menarik data dari git branch, membuat dan mengedit html dan css, mensinkronisasi git dengan html.
+
+
+untuk apa fungsi dari command
+
+git checkout -b <branch_name> : untuk membuat git branch
+git pull origin <branch_name> : untuk menarik data dari git branch
